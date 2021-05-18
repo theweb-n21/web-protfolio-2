@@ -70,12 +70,14 @@ img {
 #hello__area {
     width: 100%;
     height: 510px;
+    background-image: url(../img/top-banner.png);
+    background-repeat: no-repeat;
 }
 
 .hello__inner-area {
     height: inherit;
-    background-image: url(../img/top-banner.png);
-    background-repeat: no-repeat;
+    /* background-image: url(../img/top-banner.png); */
+    /* background-repeat: no-repeat; */
 }
 
 .orange-highlight {
